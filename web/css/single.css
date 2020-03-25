@@ -1,0 +1,39 @@
+.heading-single h1{
+    font-size: 50px;
+    font-family: Georgia;
+ 
+}
+
+@media (max-width:450px){
+    .heading-single h1{
+        font-size: 30px;
+        font-family: Georgia;
+     
+    }
+}
+
+.card-cons{
+    padding-bottom: 50px;
+}
+.text-copy{
+    padding-top: 10px;
+    color: whitesmoke;
+    font-size: 12px;
+}
+.text-copy a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.singlecardtext a{
+    text-decoration: none;
+    font-size: 13px;
+    color:black;
+}
+.singlecardtext a:hover{
+    text-decoration: none;
+    color: lightsalmon;
+}
+
+.bg-color{
+    background-color: #f7f7f7;
+}
