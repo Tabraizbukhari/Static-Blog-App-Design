@@ -16,7 +16,7 @@ body {
   line-height: 25px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  overflow-x: hidden;
+  
 }
 
 h1, h2, h3, h4 {
@@ -681,7 +681,7 @@ hr {
   -ms-animation: fadeIn 0.4s;
 }
 
-.dropdown-menu:before {
+/* .dropdown-menu:before {
   content: "";
   display: inline-block;
   position: absolute;
@@ -691,7 +691,7 @@ hr {
   border-right: 10px solid transparent;
   border-left: 10px solid transparent;
   border-bottom: 10px solid #fff;
-}
+} */
 
 .dropdown:hover .dropdown-menu {
   display: block;
